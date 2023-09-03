@@ -29,7 +29,7 @@ public class LeseFraFil {
 			System.out.println(linenumber + " " + line);
 			linenumber++;
 		}
-
+		
 		reader.close();
 
 		// JOptionPane.showMessageDialog(null, "Filen " + filnavn + " finnes
